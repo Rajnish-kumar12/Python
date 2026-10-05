@@ -1,0 +1,1 @@
+Python is a general purpose high level programming language. It was created by Guido van Rossum, and released in 1991. It is used for web development (server-side), software development, mathematics, system scripting. Python is a programming language that lets you work quickly and integrate systems more effectively.
