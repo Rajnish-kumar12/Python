@@ -36,3 +36,6 @@ print(int("5") * 3) # Repetition of converted string
 print(10**2) # Exponentiation
 print(2**2) # Exponentiation
 print(16**-2) # Exponentiation
+print('rajnish'+12) #TypeError
+print('rajnish'+str(12))
+print('rajnish'+int('rajn')) #ValueError(Becasue before concatenation jvm try to convert string to int that is not defined in python)
