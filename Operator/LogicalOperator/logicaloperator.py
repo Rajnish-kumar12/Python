@@ -53,3 +53,9 @@ print('' or 'python') #python
 print([] or [1,2,3]) #[1, 2, 3]
 print({} or {'a': 1}) #{'a': 1}
 print(10 and 20 or 30) #20
+
+#not
+print(not 10) #False
+print(not 0) #True
+print(not 'rajnish') #False
+print(not '') #True
