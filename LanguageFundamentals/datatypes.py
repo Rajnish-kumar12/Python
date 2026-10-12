@@ -75,3 +75,9 @@ print(oct(x))
 
 x = 0b11
 print(hex(x))
+
+
+x= 0o11
+print(int(x))
+
+# By - default print return value in integer
